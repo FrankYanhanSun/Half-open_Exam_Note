@@ -1,5 +1,6 @@
 # 半开卷考试“大抄”Latex模板<br>Latex Template for Half-open Exam (Cheetsheet)
 大学很多课程的考试采用半开卷的形式，即仅可带一张A4纸进入考场参考。因此，如何在这张A4纸上清晰地写下尽可能多的内容，就显得十分重要了。<br>
+
 Many exams in universities are "half-open", which means that only one A4 paper can be brought for reference. Therefore, it is crucial to write as much as possible clearly on this A4 paper.<br>
 
 ## 介绍 Introduction
