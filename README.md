@@ -11,6 +11,11 @@ This repository provides a Latex template `main.tex` which can arrange the conte
 ## 使用方法 How to Use
 - 需使用`XeLaTeX`编译<br>Compile with `XeLaTeX`
 - 支持`Overleaf`。但是经测试，若将单页A4完全填满内容，会导致免费版`Overleaf`编译超时。因此，建议本地`LaTeX`配合`vscode`使用。<br>Support `Overleaf`. However, it has been found that if the content is fully filled on the A4 page, the free version of `Overleaf` will time out for compilation. Therefore, it is recommended to use `LaTeX` locally with `vscode`.
+- Example note:
+  
+  <div align="center">
+      <img src="example_note.jpg" width="700">
+  </div>
 
 ## Good News！
 如果你是为了准备上海大学`23365030电子技术B`的半开卷考试而浏览到本仓库，那么恭喜你，我的样张正是基于该门课程制作，可以直接白嫖或在此基础上修改。
